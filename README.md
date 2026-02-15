@@ -1,6 +1,8 @@
 # Pigfull-Portals
 The great and famous Bedrock Edition gold farm functionality but now on JAVA edition ! (check wiki)
 
+*This mod is only required on the server-side*
+
 ## How to set up
 
 You follow the normal setup guides for building a bedrock edition gold farm. You can find these online, for example on Youtube...
